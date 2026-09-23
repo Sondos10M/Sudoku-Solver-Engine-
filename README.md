@@ -1,4 +1,4 @@
-# 🧩 Sudoku Solver Engine
+# 🧩 Sudoku Solver
 
 An efficient **Sudoku Solver** written in **Python** using **Backtracking** and **Recursion** to solve $9\times9$ Sudoku puzzles dynamically.
 
@@ -26,4 +26,4 @@ An efficient **Sudoku Solver** written in **Python** using **Backtracking** and 
 
 ## 💻 Running the Solver
 ```bash
-python sudoku_solver.py
+python Sudoku.py
